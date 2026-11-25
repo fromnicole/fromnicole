@@ -31,7 +31,7 @@
 
 ---
 
-## Proyecto destacado
+## Proyectos destacados
 
 ### Cifra
 
@@ -44,3 +44,13 @@ Desarrollada para organizar ingresos, gastos, cuentas por pagar y movimientos fi
 [![Repositorio](https://img.shields.io/badge/Ver_repositorio-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fromnicole/Cifra)
 
 [![Ver aplicación](https://img.shields.io/badge/Ver_aplicaci%C3%B3n-0969DA?style=for-the-badge&logo=vercel&logoColor=white)](https://cifra-dusky-two.vercel.app/)
+
+### Folio
+
+Aplicación de escritorio para extraer, revisar y editar texto de documentos PDF, con reconocimiento OCR en español para páginas escaneadas.
+
+**Tecnologías:** JavaScript · Electron · PDF.js · Tesseract.js
+
+[![Repositorio](https://img.shields.io/badge/Ver_repositorio-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fromnicole/Folio)
+
+[![Descargar_para_Windows](https://img.shields.io/badge/Descargar_para_Windows-0969DA?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/fromnicole/Folio/releases/latest)
